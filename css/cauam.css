@@ -1,6 +1,6 @@
 .font1 {
   font-family: arial;
-  font-size: 10px;
+  font-size: 40px;
 }
 
 .font2 {
@@ -11,4 +11,8 @@
 .color1 {
   color: brown;
   text-shadow: burlywood;
+}
+
+.background {
+  background-color: rgb(65, 119, 219);
 }
